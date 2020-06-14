@@ -5,6 +5,7 @@
   "author": "isso0424",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^12.12.47",
     "@typescript-eslint/eslint-plugin": "^3.2.0",
     "@typescript-eslint/parser": "^3.2.0",
     "electron": "^9.0.4",
@@ -20,8 +21,11 @@
     "webpack-cli": "^3.3.11"
   },
   "dependencies": {
+    "@types/react": "^16.9.36",
+    "@types/react-dom": "^16.9.8",
     "eslint-loader": "^4.0.2",
     "html-webpack-plugin": "^4.3.0",
+    "node": "12.18.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
